@@ -34,3 +34,12 @@ class PlacesService:
                 ]
 
         return result
+
+    def get_place(self, place_id: int) -> PlaceModel:
+        """
+        Получение любимого места.
+        :param place_id: Идентификатор.
+        :return:
+        """
+        result = {place.id: place for place in self.get_places()}
+        return result.get(place_id, None)

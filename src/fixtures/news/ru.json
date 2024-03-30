@@ -1,0 +1,33 @@
+{
+  "status": "ok",
+  "totalResults": 8746,
+  "articles":
+  [
+    {
+      "source":
+      {
+        "id": "post-news",
+        "name": "POST News"
+      },
+      "author": "https://www.facebook.com/postnews",
+      "title": "Ticks began to wake up all over Russia. The season of their activity will come in two weeks",
+      "description": "Precautions should be taken now — with the onset of warm weather, the ticks will finally wake up and switch to nutrition (attacking animals and people).",
+      "url": "https://www.postnews.ru/news/live/world-europe-68431017",
+      "publishedAt": "2024-03-29T08:03:55Z",
+      "content": "The first cases of bites have already been recorded. The number of visits to doctors is growing rapidly in St. Petersburg, Sverdlovsk, Pskov regions and in 19 other regions of the country.\u2026 [+569 chars]"
+    },
+    {
+      "source":
+      {
+        "id": null,
+        "name": "NPR"
+      },
+      "author": null,
+      "title": "Alexei Navalny has died in prison at 47, Moscow says",
+      "description": "The Federal Prison Service said in a statement that Navalny felt unwell after a walk on Friday and lost consciousness. The politician's team says it has received no confirmation of his death so far.",
+      "url": "https://www.npr.org/2024/02/16/1231946376/alexei-navalny-death-in-prison-vladimir-putin-opposition",
+      "publishedAt": "2024-02-16T12:18:22Z",
+      "content": "Alexei Navalny is seen in 2012 behind the bars in a police van after he was detained during protests in Moscow a day after Putin's inauguration.\r\nSergey Ponomarev/AP\r\nMOSCOW Alexei Navalny, the fierc\u2026 [+1635 chars]"
+    }
+  ]
+}
